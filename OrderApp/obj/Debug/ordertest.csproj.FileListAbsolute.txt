@@ -1,0 +1,7 @@
+C:\Users\jiaxy\source\repos\homeworks\Homework7\ordertest\bin\Debug\ordertest.exe.config
+C:\Users\jiaxy\source\repos\homeworks\Homework7\ordertest\bin\Debug\ordertest.exe
+C:\Users\jiaxy\source\repos\homeworks\Homework7\ordertest\bin\Debug\ordertest.pdb
+C:\Users\jiaxy\source\repos\homeworks\Homework7\ordertest\obj\Debug\ordertest.csprojAssemblyReference.cache
+C:\Users\jiaxy\source\repos\homeworks\Homework7\ordertest\obj\Debug\ordertest.csproj.CoreCompileInputs.cache
+C:\Users\jiaxy\source\repos\homeworks\Homework7\ordertest\obj\Debug\ordertest.exe
+C:\Users\jiaxy\source\repos\homeworks\Homework7\ordertest\obj\Debug\ordertest.pdb

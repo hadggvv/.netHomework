@@ -1,0 +1,20 @@
+C:\Users\jiaxy\source\repos\Homework3\ordertest\bin\Debug\ordertest.exe.config
+C:\Users\jiaxy\source\repos\Homework3\ordertest\bin\Debug\ordertest.exe
+C:\Users\jiaxy\source\repos\Homework3\ordertest\bin\Debug\ordertest.pdb
+C:\Users\jiaxy\source\repos\Homework3\ordertest\obj\Debug\OrderApp.csprojAssemblyReference.cache
+C:\Users\jiaxy\source\repos\Homework3\ordertest\obj\Debug\OrderApp.csproj.CoreCompileInputs.cache
+C:\Users\jiaxy\source\repos\Homework3\ordertest\obj\Debug\ordertest.exe
+C:\Users\jiaxy\source\repos\Homework3\ordertest\obj\Debug\ordertest.pdb
+C:\Users\jiaxy\source\repos\Homework3\OrderApp\bin\Debug\ordertest.exe.config
+C:\Users\jiaxy\source\repos\Homework3\OrderApp\bin\Debug\ordertest.exe
+C:\Users\jiaxy\source\repos\Homework3\OrderApp\bin\Debug\ordertest.pdb
+C:\Users\jiaxy\source\repos\Homework3\OrderApp\obj\Debug\OrderApp.csproj.CoreCompileInputs.cache
+C:\Users\jiaxy\source\repos\Homework3\OrderApp\obj\Debug\ordertest.exe
+C:\Users\jiaxy\source\repos\Homework3\OrderApp\obj\Debug\ordertest.pdb
+C:\Users\zhangwenhua\Documents\Tencent Files\412870397\FileRecv\Homework3\OrderApp\bin\Debug\ordertest.exe.config
+C:\Users\zhangwenhua\Documents\Tencent Files\412870397\FileRecv\Homework3\OrderApp\bin\Debug\ordertest.exe
+C:\Users\zhangwenhua\Documents\Tencent Files\412870397\FileRecv\Homework3\OrderApp\bin\Debug\ordertest.pdb
+C:\Users\zhangwenhua\Documents\Tencent Files\412870397\FileRecv\Homework3\OrderApp\obj\Debug\OrderApp.csprojAssemblyReference.cache
+C:\Users\zhangwenhua\Documents\Tencent Files\412870397\FileRecv\Homework3\OrderApp\obj\Debug\OrderApp.csproj.CoreCompileInputs.cache
+C:\Users\zhangwenhua\Documents\Tencent Files\412870397\FileRecv\Homework3\OrderApp\obj\Debug\ordertest.exe
+C:\Users\zhangwenhua\Documents\Tencent Files\412870397\FileRecv\Homework3\OrderApp\obj\Debug\ordertest.pdb
