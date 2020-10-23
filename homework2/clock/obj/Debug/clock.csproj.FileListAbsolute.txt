@@ -1,0 +1,6 @@
+C:\Users\jiaxy\source\repos\homeworks\Homework3\clock\bin\Debug\clock.exe.config
+C:\Users\jiaxy\source\repos\homeworks\Homework3\clock\bin\Debug\clock.exe
+C:\Users\jiaxy\source\repos\homeworks\Homework3\clock\bin\Debug\clock.pdb
+C:\Users\jiaxy\source\repos\homeworks\Homework3\clock\obj\Debug\clock.csproj.CoreCompileInputs.cache
+C:\Users\jiaxy\source\repos\homeworks\Homework3\clock\obj\Debug\clock.exe
+C:\Users\jiaxy\source\repos\homeworks\Homework3\clock\obj\Debug\clock.pdb
